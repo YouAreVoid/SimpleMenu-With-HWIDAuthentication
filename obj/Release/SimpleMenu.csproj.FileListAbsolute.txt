@@ -1,0 +1,10 @@
+C:\Users\Jacob\source\repos\SimpleMenu\SimpleMenu\bin\Release\SimpleMenu.exe.config
+C:\Users\Jacob\source\repos\SimpleMenu\SimpleMenu\bin\Release\SimpleMenu.exe
+C:\Users\Jacob\source\repos\SimpleMenu\SimpleMenu\bin\Release\SimpleMenu.pdb
+C:\Users\Jacob\source\repos\SimpleMenu\SimpleMenu\obj\Release\SimpleMenu.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\SimpleMenu\SimpleMenu\obj\Release\SimpleMenu.csproj.CopyComplete
+C:\Users\Jacob\source\repos\SimpleMenu\SimpleMenu\obj\Release\SimpleMenu.exe
+C:\Users\Jacob\source\repos\SimpleMenu\SimpleMenu\obj\Release\SimpleMenu.pdb
+C:\Users\Jacob\source\repos\SimpleMenu\SimpleMenu\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jacob\source\repos\SimpleMenu\SimpleMenu\obj\Release\SimpleMenu.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\SimpleMenu\SimpleMenu\obj\Release\SimpleMenu.csproj.Fody.CopyLocal.cache
